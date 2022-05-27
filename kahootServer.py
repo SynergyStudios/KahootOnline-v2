@@ -4,10 +4,13 @@
 ### Find on GitHub at: https://github.com/SynergyStudios/KahootOnline-v2
 
 version = '1.0'
-snaphshot = '#a001'
+snapshot = '#a002'
 
 from threading import Thread
 from time import sleep
+
+#from lib.utils import Printer
+from lib.net import Server, Signal, get_host
 
 ordinal = lambda n: "%d%s" % (n,"tsnrhtdd"[(n//10%10!=1)*(n%10<4)*n%10::4])
 
@@ -16,9 +19,9 @@ class Player:
     """A player in the game, with a socket, addr, id
        and any other essentials."""
 
-    def __init__(self, sock, addr, name, id = None):
+    def __init__(self, conn, addr, name, id = None):
 
-        self.sock = sock
+        self.conn = conn
         self.addr = addr
 
         self.name = name
@@ -91,16 +94,89 @@ class SignalServer:
 
     def __init__(self):
 
-        self.s = Server(PORT)
+        self.s = Server(63111)
+        self.ip = self.s.IP
 
+        self.st = '/*/'
+
+        self.players = []
+
+        self.question_queue = []
+        self.question_queue_change = False
+
+        self.state = None
+
+
+    def get_player(conn):
+
+        """Returns a player based on their connection."""
+
+        pl = None
+
+        for player in players:
+            if player.conn == conn:
+                pl = player
+
+        return pl
+        
 
     def setup_server(self, s):
 
         """Sets the server up as well as providing most of the
            game logic."""
 
-        pass
+        @s.Connected
+        def handle_connection_on_server(conn):
 
+            @conn.Signalled('/join') #/join
+            def handle_join():
+
+                """Handles a player joining and makes a Player() class to store their details."""
+
+                name = signal.data['name']
+                addr = signal.data['addr']
+                
+                self.players.append(Player(conn, addr, name))
+
+                conn.send(Signal('/respondjoin', {'message': f'Successfully connected to uk.kahoot.server-{self.ip}',
+                                                  'status': '200'}))
+
+            @conn.Signalled('/version') #/version
+            def check_version():
+
+                """Checks the version of the client, and then either verifies it
+                   or notifies and disconnects the client."""
+
+                ver = signal.data['version']
+                snap = signal.data['snapshot']
+
+                if str(ver) != version:
+                    conn.send(Signal('/wrongversion', {'error': f"You're running on an outdated version! Update to version {version} to play!",
+                                                       'version_to_update': version}))
+
+            @conn.Signalled('/result') #/result
+            def mark_result():
+                pass
+
+            @conn.Signalled('/disconnect') #/disconnect
+            def handle_disconnect():
+
+                """Handles a disconnect from the client."""
+
+                player = self.get_player(conn)
+
+                if player:
+                    self.players.remove(player)
+
+                if conn.connection:
+                    conn.disconnect()
+                
+    
+        @s.Disconnected
+        def unintended_disconnect():
+            self.handle_disconnect()
+
+    
     def start_server(self):
 
         """Starts the server after setting it up and connects
@@ -123,21 +199,21 @@ class GameHandler:
     def __init__(self):
 
         #self.server = SignalServer()
-        #self.server_ip =
+        #self.server_ip = self.server.ip
 
-        self.t = Thread(target = self.server.start_server, daemon = True)
+        #self.t = Thread(target = self.server.start_server, daemon = True)
         
         self.leaderboard = Leaderboard()
-        self.printer = Printer()
+        #self.printer = Printer()
 
-        self.name = f'uk.kahoot.server-{self.server_ip}'
+        #self.name = f'uk.kahoot.server-{self.server.ip}'
 
         self.questions =  []
 
         self.game_det = {'maxpoints': 1000,
                          'streak': False,
                          'questiontime': 20,
-                         'questionpack': starterPack2,
+                         'questionpack': None,
                          'questionframe': 0.1}
         
         self.state = None
@@ -184,8 +260,6 @@ class GameHandler:
                 time_board = []
                 
                 while time_left >= 0:
-
-                    t1 = Thread(target = self.skip_question, daemon = True)
 
                     # Check for new response
                     if self.server.new_response:
@@ -243,7 +317,7 @@ class GameHandler:
         print()
         self.run_game()
 
-    def setup(self):
+    def start(self):
 
         """Sets up the server."""
 
@@ -263,9 +337,5 @@ class GameHandler:
         print()
         
 
-        
-
-
-
 g = GameHandler()
-g.start()
+#g.start()
