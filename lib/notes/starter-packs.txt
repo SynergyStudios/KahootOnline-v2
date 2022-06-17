@@ -1,0 +1,281 @@
+
+Starter Kahoot! Question Packs
+_____________________________
+-----------------------------
+
+------------------------------------------------------------------
+
+Notation: SP-001 (Pack Name) Tobiloba Kujore (Pack Author) [] Date, {No of q}
+QNo. Question [ANS - (Answer)]
+- Choice 1 - Choice 2 - Choice 3 (optional) - Choice 4 (optional)
+
+------------------------------------------------------------------
+
+SP-001 / SP-002 were original testing question packs, 001 was before True/False
+
+SPECIAL PACKS: SP-001 [Original General, Testing]
+	       SP-069 [The Rude Pack, VERY OFFENSIVE] #Not Done Yet
+               SP-100 [KahootSpecial, Q. about the kahootOnline game] #Not Done Yet
+
+------------------------------------------------------------------
+
+Origins General Pack #1 - Tobiloba Kujore [03/01] SP-001 {5 questions}
+-----------------------                           ------
+
+Q1. Which is the second biggest continent? [ANS - Africa]
+
+Q2. How many degrees does a right angle have?
+- 65 - 70 - 90 - 105 [90]
+
+Q3. How many sides does a heptagon have? [ANS - 7]
+
+Q4. Who won the 2016 World Cup? [ANS - France]
+
+Q5. How many plays did Shakespeare write? 
+- 28 - 37 - 42 - 50 [37]
+
+Origins General Pack #2 - Tobiloba Kujore [03/01] SP-002 {10 questions}
+-----------------------                           ------
+
+Q1. How long is an Olympic swimming pool in meters? [ANS - 50]
+
+Q2. What shape is used for a tradional red stop sign?
+- Triangle - Octagon - Square - Pentagon [Octagon]
+
+Q3. The Artic is the largest ocean on earth. True/False [False]
+
+Q4. Who was the first president of the United States?
+- George Washington - Barack Obama - Donald Trump [George Washington]
+
+Q5. Area 51 is located in Nevada. True/False [True]
+
+Q6. Which country has the most natural lakes? [ANS - Canada]
+
+Q7. How long do elephant pregnancies last? 
+- 22 - 25 - 28 [22]
+
+Q8. What is the (average) temperature of Venus in degrees?
+- 380 - 627 - 343 - 460 [460]
+
+Q9. William Shakespeare invented the word 'vomit'. True/False [True]
+
+Q10. How long is New Zealand's Ninety Mile Beach, in miles? [ANS - 55/55]
+
+
+Football Lit. Pack - Daniel Eldridge [07/03] SP-003 {7 questions}
+------------------                           ------
+
+Q1. Who wrote the novel footie series, Jamie Johnson? [ANS - Dan Freedman]
+
+Q2. Who won the 2012 World Cup? 
+- Spain - Corinthians - Las Vegas - Italy [Corinthians]
+
+Q3. In what year did football become an official sport?
+- 1820 - 1885 - 1915 - 1940 [1885]
+
+Q4. In what year did the Premier Leauge start?
+- 1953 - 1967 - 1989 - 1992 [1992]
+
+Q5. In which year did England win their first World Cup?
+- 1987 - 1935 - 1966 - 1988 [1966]
+
+Q6. The Soviet Union came 4th in the 1966 World Cup. True/False [True]
+
+Q7. Chelsea have never left the Premier League. True/False? [False]
+
+
+Vegan Knowledge Pack - Tyler Rowland [07/03] SP-004 {8 questions}
+--------------------                         ------
+
+Q1. Which of the following is Vegan?
+- Celery - Shellac (Bug Juice) - Honey [Celery]
+
+Q2. How many Vegans are there in the entire world (2021)?
+- 79 million
+
+Q3. Which of the following is Vegan?
+- Cotton - Leather - Wool [Cotton]
+
+Q4. The average Vegan saves 25 animals a year. True/False [False]
+
+Q5. Do some Vegans eat Grass True/False
+- No, as many people think, Vegans don't eat grass. [False]
+
+Q6. How many kilos of grain does the average Vegan save per day?
+- 8 - 10 - 18 - 24 [18]
+
+Q7. How many litres of water does the average Vegan save per day?
+- 2000 - 3000 - 4000 - 5000 [3000]
+
+Q8. Our friendly neighbourhood Vegan, Tyler, has not eaten how many animals since becoming Vegan?
+- 1.6k - 2.7k - 3.5k - 6.7k [2.7k]
+
+Q9. How many sq ft of forest does a Vegan save each year?
+- 4k - 8k - 10k - 11k [10k]
+
+Q10. Vegans are less likely to die from heart disease. True/False [True]
+
+
+2022 Olympics - Tobiloba Kujore [07/03] SP-005 {8 questions}
+-------------                           ------
+
+Q1. When was the first Winter Olympics held? 
+- 1920 - 1923 - 1924 - 1925 [1924]
+
+Q2. How many events were there at the 2022 Winter Olympics? [ANS - 109]
+
+Q3. Roughly how many athletes, coaches and officials competed?
+- 2k - 3k - 4k - 5k
+
+Q4. Which country won the 2022 Olympics?
+- Norway - Sweden - Switzerland [Norway]
+
+Q5. The name of the 2022 mascot is 'Bing Dwen Dwen'. True/False [True]
+
+Q6. How many new events will be added this year? 
+- 4 - 6 - 7 - 9 [7]
+
+Q7. How much did the 2022 Olympics cost for China? 
+- 2.9B - 3.2B - 3.9B - 4.5B [3.9 Billion]
+
+Q8. How many Olympic records were broken?
+- 10 - 15 - 17 - 18 [17]
+
+
+The Beatles - Adam Burrows [11/03] SP-006 {6 questions}
+-----------                        ------
+
+Q1. John Lennon wrote this song due to a fan telling him that teachers were overanylsing his music?
+- Let It Be - Norwegian Wood - I Am the Walrus - Help! [I Am the Walrus]
+
+Q2. In which city did John Lennon die?
+- Liverpool - New York - London - Washington D. C [New York]
+
+Q3. What is the name for the new Disney+ documentary on the Beatles?
+- Eleanor Rigby - Let It Be - Hey Judge - Get Back [Get Back]
+
+Q4. What is the Beatles best-selling album?
+- Abbey Road - Sgt. Popper Lonely Hearts Club Band - The Beatles - Revolver [Sgt. Popper Lonely Hearts Club Band]
+
+Q5. In Eleanor Rigby, what is the only character apart from Eleanor Rigby?
+- Father Mckenzie - Father Jameson - Father McNealy - Father Ford
+
+Q6. John Lennon was killed because he siad that 'The Beatles are more popular than Jesus.' True/False [True]
+
+Space Quiz 1 - Tobiloba Kujore [11/03] SP-007 {15 questions}
+------------                           ------
+
+Q1. Which is the largest planet of the ones listed?
+- Neptune - Saturn - Pluto - Mars [Saturn]
+
+Q2. Which planet is closest in size to the Earth? [ANS - Venus]
+
+Q3. Which planet has the fastest rotation speed?
+- Jupiter - Earth - Uranus [Jupiter]
+
+Q4. Jupiter, Saturn, Uranus and Neptune all have rings. True/False [True]
+
+Q5. Pluto is in the Oort Cloud. True/False [True]
+
+Q6. How old is the sun?
+- 2.1B - 3.5B - 4.6B - 6.5B [4.6B]
+
+Q7. The gravity of the sun, moon, and Neptune cause high and low tides. True/False [True]
+
+Q8. Who was the first person to travel to space? 
+- Neil Armstrong - Yuri Gagarin - Buzz Aldrin [Yuri Gagarin]
+
+Q9. What are comets made of?
+- Dust - Wood - Plasma [Dust]
+
+Q10. Which of the below has a solid surface?
+- Mecury - Saturn - Neptune - Juputer [Mercury]
+
+Q11. An Astronomical Unit is used to measure between the Earth and Sun. True/False [True]
+
+Q12. Who was the THIRD astronaut to walk on the moon?
+- Neil Armstrong - Pete Conrad - Jeff Kowalski [Pete Conrad]
+
+Q13. What are the storms produced by the sun called? [ANS - Solar Storms, Solar]
+
+Q14. The third brightest object in our sky is?
+- Mars - Jupiter - Venus [Venus]
+
+Q15. What is the name for a highly magnetised rotating neutron star?
+- Sunstar - Pulsar - Neutronium star - Alpha star [Pulsar]
+
+
+YouTube Quiz 1 - Laxman Sivakumar [11/03] SP-008 {7 questions}
+--------------                            ------
+
+Q1. What is the most viewed Youtube video?
+- Baby Shark - Despacito - Shape of You - Perfect [Baby Shark]
+
+Q2. Who has the most amount of subs on YT?
+- Pewdepie - Mr Beast - T Series - SET India [T Series]
+
+Q3. When was YouTube founded?
+- 2001 - 2005 - 2013 - 2006 [2005]
+
+Q4. What was the first YouTube video?
+- Tribute - Me at the Zoo - Carrie Rides a Truck - My Snowboard Skilz [Me at the Zoo]
+
+Q5. Which American YouTuber has the most subs?
+- David Dobrik - Logan Paul - Mr Beast - Jake Paul [Mr Beast]
+
+Q6. Which UK YouTuber has the most subs?
+- Tommyinnit - Joe Weller - W2S - KSI [KSI]
+?
+Q7. What 2 Youtubers started the first YouTube boxing match
+- KSI/Joe Weller - Jake Paul/Logan Paul - Joe Weller/Theo Baker - Deji/Theo Baker [Joe Weller/Theo Baker]
+
+
+Christmas Songs - Tobiloba Kujore [11/03] SP-009 {8 questions}
+--------------                            ------
+
+Q1. Elvis Presley had a 1968 hit with ‘Blue Christmas’. True/False [False]
+
+Q2. How many 'las' are after the 'fa' in Deck the Halls?
+- 3 - 5 - 8 - 9 [8]
+
+Q3. How many versions of ‘Do They Know It’s Christmas’ have been released?
+- 3 - 8 - 6 - 4 [4]
+
+Q4. In ‘Last Christmas’ who does the singer give his heart to? [ANS - Someone special]
+
+Q5. In the 12 days of Christmas, how many ladies were dancing?
+- 2 - 5 - 9 - 11 [9]
+
+Q6. Who duetted with Mariah Carey on her 2011 festive hit ‘All I Want for Christmas’?
+- Elvis Presley - John Cena - Justin Bieber - Galway Bay [Justin Bieber]
+
+Q7. Who recorded the original  version of ‘White Christmas’ in 1942? [ANS - Bing Crosby]
+
+Q8. What is the only band i the history of UK singles to have achieved Christmas #1 TWICE with the same song?
+- Queen - The Beatles [Queen]
+
+
+World Capitals - Tobiloba Kujore [14/03] SP-010 {8 questions}
+--------------   
+
+
+Q1. What country is Bern the capital city of?
+- New Zealand - Peru - Nigeria - Switzerland [Switzerland]
+
+Q2. What is the capital city of Thailand? [ANS - Bangkok]
+
+Q3. Seoul, capital of South Korea, is in what position on the sizes of citites?
+- 12th - 16th - 23rd - 29th [16th]
+
+Q4. Below are Afghanistan cities. Which is the capital?
+- Kandahar - Kabul - Ghanzi - Jalalabad [Kabul]
+
+Q5. Addid Ababa is the capital of Ethopia. True/False [True]
+
+Q6. Of which below is the capital of Ghana?
+- Mek'ele - Dire Dawa - Accra - Kumasi
+
+Q7. Freetown is the capital city of what country? [ANS - Sierra Leone]
+
+Q8. How many capital cities are there worldwide?
+- 195 - 245 - 295 [195]
