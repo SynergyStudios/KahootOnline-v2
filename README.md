@@ -8,6 +8,10 @@
 - The project uses the same music (with a few more tracks added) from v1.
 - The project uses connection modules from @suchasaltylemon's signal-I0
 
+### ✍️ Roles and Workers
+- The project's main composer: **Jaden Francisco**
+- The project's main developer: **Tobiloba Kujore**
+
 ### 📝 Documentation
 In development, *coming soon*!
 
